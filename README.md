@@ -27,7 +27,7 @@ This is a selection of my most recent and interesting projects mainly in the fie
 ![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 
-My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraoh for Complex Systems Modeling.
+My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraph for Complex Systems Modeling.
 
 ## Programming Languages
 
