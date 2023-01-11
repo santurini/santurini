@@ -1,4 +1,4 @@
-### My Contacts
+## My Contacts
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
@@ -6,7 +6,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
-### Main Projects
+## Main Projects
 
 [![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-0078D6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/MotoGP_Pilot_Ranking-FF0000?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
@@ -16,7 +16,7 @@
 
 ## Programming Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r_&_RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white) for Deep and Machine Learning Projects
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r_&_RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white) for Deep and Machine Learning Projects
 - Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Reports: ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - Project Management: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
