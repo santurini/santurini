@@ -17,7 +17,7 @@ Feel free to contact me for any question or reason. By clicking on the badge (ho
 
 This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
 
-## Main Frameworks
+### Main Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -29,7 +29,7 @@ This is a selection of my most recent and interesting projects mainly in the fie
 
 My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraph for Complex Systems Modeling.
 
-## Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r_&_RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -39,7 +39,7 @@ My favourite frameworks for building Neural Networks are PyTorch (with Lightning
 
 I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTex and Markdown for writing reports and Git for Project Management.
 
-## Operative Systems
+### Operative Systems
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -50,7 +50,7 @@ I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTe
 
 I've tried almost every Operative Systems, at the moment I'm working with MacOS after years of Windows and Unix in dual boot.
 
-## IDE and Environments
+### IDE and Environments
 
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Colab](https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -61,7 +61,7 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 
 I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helos me managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
-## GitHub Activity
+### GitHub Activity
 
 <img height="220px" src="https://github-readme-stats.vercel.app/api?username=santurini&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
