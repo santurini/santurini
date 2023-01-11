@@ -43,6 +43,7 @@
 
 ### Favourite Projects
 
+[![Ships](https://custom-icon-badges.demolab.com/badge/ship-000?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![](https://img.shields.io/badge/-🛳️%20Ship%20Classifier-000?style=for-the-badge)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![](https://img.shields.io/badge/-🛸%20Drone%20Semantic%20Segmentation-000)](https://github.com/santurini/SYN-Flood)
 [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
