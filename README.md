@@ -2,7 +2,7 @@
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
-My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything.\
+My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
 Down below you can find more infos about me and my projects, enjoy!
 
 ### My Contacts
