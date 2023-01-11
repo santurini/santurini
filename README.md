@@ -1,5 +1,7 @@
 ## My Contacts
 
+Feel free to contact me for any question or reason at the following links (hover on the mail icon for my gmail account):
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
@@ -8,12 +10,16 @@
 
 ## Main Projects
 
+This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems:
+
 [![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-0078D6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/MotoGP_Pilot_Ranking-FF0000?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
 [![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-8B21B2?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
 [![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-06696C?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
 ## Main Frameworks
+
+My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraoh for Complex Systems Modeling.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -25,6 +31,8 @@
 
 ## Programming Languages
 
+I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTex and Markdown for writing reports and Git for Project Management.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r_&_RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,6 +40,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Operative Systems
+
+I've tried almost every Operative Systems, at the moment I'm working with MacOS after years of Windows and Unix in dual boot.
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -41,6 +51,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## IDE and Environments
+
+I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helos me managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Colab](https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
