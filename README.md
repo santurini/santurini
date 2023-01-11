@@ -25,7 +25,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
-![iGraph](https://custom-icon-badges.demolab.com/badge/-igraph-000000?style=for-the-badge&logo=igraph&logoColor=white)
+![iGraph](https://custom-icon-badges.demolab.com/badge/igraph-FFCC33?style=for-the-badge&logo=igraph&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
