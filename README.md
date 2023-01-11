@@ -10,10 +10,10 @@ Feel free to contact me for any question or reason. By clicking on the badge (ho
 
 ### Main Projects
 
-[![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-0078D6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
+[![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-B0E0E6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/MotoGP_Pilot_Ranking-FF0000?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
-[![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-8B21B2?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
-[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-06696C?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
+[![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
+[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-48D1CC?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
 This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
 
