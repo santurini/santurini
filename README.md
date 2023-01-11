@@ -64,4 +64,4 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 ### GitHub Activity
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santurini&show_icons=true&theme=cobalt&hide=prs&card_width=400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=santurini&show_icons=true&theme=cobalt&hide=prs&card_width=600)
