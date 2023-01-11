@@ -1,3 +1,10 @@
+### TL;DR
+
+Pursuing the MSc in Data Science @ La Sapienza, University of Rome.
+Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.
+My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm open to anything that might stimulate my curiosity and interest.
+Down below you can find more infos about me and my projects, enjoy!
+
 ### My Contacts
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
