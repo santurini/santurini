@@ -5,7 +5,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
-
 Feel free to contact me for any question or reason at the following links (hover on the mail icon for my gmail account).
 
 ## Main Projects
