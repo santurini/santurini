@@ -65,4 +65,4 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santurini&show_icons=true&theme=cobalt&hide=prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santurini&layout=compact)](https://github.com/santurini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/santurini/github-readme-stats)
