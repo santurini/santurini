@@ -43,8 +43,8 @@
 
 ### Favourite Projects
 
-[![](https://img.shields.io/badge/-🛳️%20Ship%20Classifier-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🛳️%20Ship%20Classifier-000?style=for-the-badge)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
+[![](https://img.shields.io/badge/-🛸%20Drone%20Semantic%20Segmentation-000)](https://github.com/santurini/SYN-Flood)
 [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
 [![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
