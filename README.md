@@ -2,7 +2,7 @@
 
 ### Contacts
 
-![ghinassiarturo8@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiartuto8@gmail.com")
 
 
 ### Languages
