@@ -46,7 +46,7 @@
 [![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-0078D6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/MotoGP_Pilot_Ranking-FF0000?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
 [![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-8B21B2?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
-[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-00969B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
+[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-06696C?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
