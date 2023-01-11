@@ -3,7 +3,7 @@
 ### Languages
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=E8DA12&labelColor=black&color=black'/></a>
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='RStudio' src='https://img.shields.io/badge/RStudio-100000?style=flat&logo=RStudio&logoColor=77FBFF&labelColor=000000&color=black'/></a>
 
 ### Technologies
 
