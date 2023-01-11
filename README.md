@@ -6,7 +6,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
-Feel free to contact me for any question or reason at the following links (hover on the mail icon for my gmail account).
+Feel free to contact me for any question or reason. By clicking on the badge (hover on the mail icon for my gmail account) you will be automatically directed at my personal account!
 
 ### Main Projects
 
@@ -15,7 +15,7 @@ Feel free to contact me for any question or reason at the following links (hover
 [![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-8B21B2?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
 [![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-06696C?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
-This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems.
+This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
 
 ## Main Frameworks
 
