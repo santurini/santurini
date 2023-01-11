@@ -13,7 +13,7 @@ Feel free to contact me for any question or reason. By clicking on the badge (ho
 [![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-B0E0E6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/MotoGP_Pilot_Ranking-B22222?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
 [![Drones](https://custom-icon-badges.demolab.com/badge/Drone_Semantic_Segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
-[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-48D1CC?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
+[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
 This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
 
