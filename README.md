@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/91251307/212046579-58ab8d44-8eb7-49c7-9849-857d7a533566.mov
+
 ### TL;DR
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
