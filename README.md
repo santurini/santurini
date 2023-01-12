@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/91251307/212046579-58ab8d44-8eb7-49c7-9849-857d7a533566.mov
+![Screen_Recording_2023-01-12_at_11_40_26_AdobeExpress](https://user-images.githubusercontent.com/91251307/212047118-f8c8f740-7cb4-4f68-ac57-4b4cc4305d78.gif)
 
 ### TL;DR
 
