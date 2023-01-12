@@ -70,14 +70,6 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 
 I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helps in managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
-### GitHub Activity
+### Me Trying To Survive
 
-<br />
-<br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
-
-
-
+![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
