@@ -10,7 +10,7 @@ Down below you can find more infos about me and my projects, enjoy!
 ### My Contacts
 
 ![Gmail](https://img.shields.io/badge/ghinassiarturo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
-[![LinkedIn](https://img.shields.io/badge/Arturo Ghinassi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+[![LinkedIn](https://img.shields.io/badge/Arturo_Ghinassi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
 [![Kaggle](https://img.shields.io/badge/santurini-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
 [![Slack](https://img.shields.io/badge/Join_on_slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/Discord_Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
