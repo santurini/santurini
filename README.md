@@ -9,11 +9,11 @@ Down below you can find more infos about me and my projects, enjoy!
 
 ### My Contacts
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
+![Gmail](https://img.shields.io/badge/ghinassiarturo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
+[![LinkedIn](https://img.shields.io/badge/Arturo Ghinassi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+[![Kaggle](https://img.shields.io/badge/santurini-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
+[![Slack](https://img.shields.io/badge/Join_on_slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
+[![Discord](https://img.shields.io/badge/Discord_Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
 By clicking on the badge (hover on the mail icon for my address) you will be automatically directed at my personal account, feel free to contact me for any question or reason! 
 
@@ -71,5 +71,12 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helps in managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
 ### Me Trying To Survive
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
 
 ![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
