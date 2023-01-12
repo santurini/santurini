@@ -7,6 +7,8 @@ Mainly focused on Machine Learning/Neural Networks and Data Science applied to C
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
 Down below you can find more infos about me and my projects, enjoy!
 
+<hr style="border:1px black">
+
 ### My Contacts
 
 ![Gmail](https://img.shields.io/badge/ghinassiarturo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white "ghinassiarturo8@gmail.com")
@@ -17,6 +19,8 @@ Down below you can find more infos about me and my projects, enjoy!
 
 By clicking on the badge (hover on the mail icon for my address) you will be automatically directed at my personal account, feel free to contact me for any question or reason! 
 
+<hr style="border:1px black">
+
 ### Main Projects
 
 [![Ships](https://custom-icon-badges.demolab.com/badge/ship_Classifier-B0E0E6?style=for-the-badge&logo=ship)](https://github.com/santurini/Ships-Classification-with-Neural-Networks-Ensemble)
@@ -25,6 +29,8 @@ By clicking on the badge (hover on the mail icon for my address) you will be aut
 [![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxies_CounTR-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
 This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
+
+<hr style="border:1px black">
 
 ### Main Frameworks
 
@@ -38,6 +44,8 @@ This is a selection of my most recent and interesting projects mainly in the fie
 
 My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraph for Complex Systems Modeling.
 
+<hr style="border:1px black">
+
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -47,6 +55,8 @@ My favourite frameworks for building Neural Networks are PyTorch (with Lightning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTex and Markdown for writing reports and Git for Project Management.
+
+<hr style="border:1px black">
 
 ### Operative Systems
 
@@ -59,7 +69,7 @@ I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTe
 
 I've tried almost every Operative Systems, at the moment I'm working with MacOS after years of Windows and Unix in dual boot.
 
-<hr style="border:0.5px pink">
+<hr style="border:1px black">
 
 ### IDE and Environments
 
@@ -72,7 +82,7 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 
 I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helps in managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
-<hr style="border:2px pink">
+<hr style="border:1px black">
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
 </div>
