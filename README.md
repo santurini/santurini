@@ -59,6 +59,8 @@ I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTe
 
 I've tried almost every Operative Systems, at the moment I'm working with MacOS after years of Windows and Unix in dual boot.
 
+<hr style="border:0.5px pink">
+
 ### IDE and Environments
 
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
