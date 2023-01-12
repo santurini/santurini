@@ -73,23 +73,6 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 ### GitHub Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%205%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 29 Contributions in the Year 2023
- > 
-> 📦 324.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
@@ -99,30 +82,6 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-C++                      13 hrs 31 mins      ████████████████░░░░░░░░░   66.94% 
-C                        4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21% 
-CMake                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-
-🐱‍💻 Projects: 
-swarm_mission            15 hrs 44 mins      ███████████████████░░░░░░   77.83% 
-netbox-client-arrc-latest2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-arrc-library             40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
-swarm_simulation         40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-swarm_uav_control_ros1   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-```
-
-
- Last Updated on 11/01/2023 12:45:05 UTC
 <!--END_SECTION:waka-->
 
 
