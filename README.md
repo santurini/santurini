@@ -72,16 +72,12 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 
 ### GitHub Activity
 
-<!--START_SECTION:waka-->
+<br />
+<br />
 
-```text
-🌞 Morning    41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-🌆 Daytime    256 commits    ██████████░░░░░░░░░░░░░░░   40.51% 
-🌃 Evening    228 commits    █████████░░░░░░░░░░░░░░░░   36.08% 
-🌙 Night      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93%
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
 
-```
-
-<!--END_SECTION:waka-->
 
 
