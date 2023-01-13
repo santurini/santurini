@@ -3,8 +3,10 @@
 <div align="center">
 	
 ### TL;DR 
-	
-![](https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=for-the-badge)![](http://ForTheBadge.com/images/badges/built-with-science.svg)
+
+![la-sapienza-university-of-rome](https://user-images.githubusercontent.com/91251307/212358644-24bc2e70-d10b-49cc-98a4-5bb7a2a6d81a.svg)
+![msc-data-science](https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg)
+![bsc-management-statistics](https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg)
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
