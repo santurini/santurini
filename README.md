@@ -1,12 +1,13 @@
 ![banner](https://user-images.githubusercontent.com/91251307/212051397-3d9ce98c-c2b6-4fe9-8839-96d7f4124234.gif)
 
+<div align="center">
 # TL;DR - <img src="https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=flat-squared" style="vertical-align: middle"/>
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
 Down below you can find more infos about me and my projects, enjoy!
-
+</div>
 <hr style="border:1px black">
 
 ### My Contacts
