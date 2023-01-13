@@ -3,7 +3,9 @@
 <div align="center">
 	
 ### TL;DR 
+	
 ![](https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=for-the-badge)![](http://ForTheBadge.com/images/badges/built-with-science.svg)
+
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
