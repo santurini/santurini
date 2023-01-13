@@ -2,8 +2,8 @@
 
 <div align="center">
 	
-# TL;DR - <img src="https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=flat-squared" style="vertical-align: middle"/>
-
+### TL;DR 
+![](https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=for-the-badge)![](https://github-profile-trophy.vercel.app/?username=santurini)
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
