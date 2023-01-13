@@ -1,7 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/91251307/212051397-3d9ce98c-c2b6-4fe9-8839-96d7f4124234.gif)
 
 <div align="center">
-<h3> TL;DR - <img src="https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=flat-squared" style="vertical-align: middle"/> </h3>
+	
+### TL;DR - <img src="https://komarev.com/ghpvc/?username=santurini&label=👁️&color=blueviolet&style=flat-squared" style="vertical-align: middle"/>
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
@@ -86,5 +87,6 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 <hr style="border:1px black">
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
+	
 </div>
 	
