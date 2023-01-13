@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg" height="28"/>
 <img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
 <img src="https://komarev.com/ghpvc/?username=santurini&style=for-the-badge&label=👁️&color=ff69b4"/> 
-<div style="line-height:80%;">
+<div style="line-height:20%;">
     <br>
 </div>
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome. <br/>
