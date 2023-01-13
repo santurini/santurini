@@ -7,7 +7,7 @@ Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
 Down below you can find more infos about me and my projects, enjoy!
-</div>
+
 <hr style="border:1px black">
 
 ### My Contacts
@@ -84,6 +84,7 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helps in managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
 
 <hr style="border:1px black">
-<div align="center">
+
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
 </div>
+	
