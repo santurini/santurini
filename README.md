@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=santurini&style=for-the-badge&label=👁️&color=ff69b4"/>
 
 <br/>	
+	
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
@@ -25,7 +26,8 @@ Down below you can find more infos about me and my projects, enjoy!
 [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
-By clicking on the badge (hover on the mail icon for my address) you will be automatically directed at my personal account, feel free to contact me for any question or reason! 
+By clicking on the badge (hover on the mail icon for my address) you will be automatically directed at my personal account.\ 
+Feel free to contact me for any question or reason! 
 
 <hr style="border:1px black">
 
@@ -36,7 +38,8 @@ By clicking on the badge (hover on the mail icon for my address) you will be aut
 [![Drones](https://custom-icon-badges.demolab.com/badge/Semantic_Segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
 [![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxy_CounTR-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
 
-This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems. Click on the badge to check the GitHub repository!
+This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems.\ 
+Click on the badge to check the GitHub repository!
 
 <hr style="border:1px black">
 
@@ -50,7 +53,9 @@ This is a selection of my most recent and interesting projects mainly in the fie
 ![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 
-My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow that I usually combine with Weights and Biases to check the logs and save images or insights, while in R I use Keras and iGraph for Complex Systems Modeling.
+My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow.\
+I use Weights and Biases to check the logs and save images or insights, sometimes also Tensorboard.\
+In R i use mainly Keras and iGraph for Complex Systems Modeling and in general the tidyverse for in depth analysis.
 
 <hr style="border:1px black">
 
@@ -62,7 +67,9 @@ My favourite frameworks for building Neural Networks are PyTorch (with Lightning
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I use R and Python for Data Science, MongoDB and MySQL for Data Management, LaTex and Markdown for writing reports and Git for Project Management.
+I use R and Python for Data Science.\
+MongoDB and MySQL for Data Management.\
+LaTex and Markdown for writing reports and Git for Project Management.
 
 <hr style="border:1px black">
 
@@ -88,7 +95,9 @@ I've tried almost every Operative Systems, at the moment I'm working with MacOS 
 ![Jupyter](https://img.shields.io/badge/jupyterlab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-I mainly use Kaggle to run my training codes as it has great resources availability and also Colab when I don't need many resources. Anaconda helps in managing my virtual enviroments even if I rarely work on my local machine but when I do usually I use Spyder to debug and VSCode/Jupyter for fast code.
+I mainly use Kaggle/Colab to run my training codes for their great resources availability.\
+Anaconda is my virtual enviroments manager when I work locally (rarely).\
+As IDE my favorites are Spyder (easy debugging) and VSCode (great UX/UI but terrible debugging imho).
 
 <hr style="border:1px black">
 
