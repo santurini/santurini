@@ -85,6 +85,6 @@ I mainly use Kaggle to run my training codes as it has great resources availabil
 
 <hr style="border:1px black">
 
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
 </div>
 	
