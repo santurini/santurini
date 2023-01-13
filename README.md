@@ -9,6 +9,7 @@
 <img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
 <img src="https://komarev.com/ghpvc/?username=santurini&style=for-the-badge&label=👁️&color=ff69b4" />
 
+	
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome.\
 Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.\
 My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.\
