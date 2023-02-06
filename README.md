@@ -28,7 +28,7 @@ Feel free to contact me for any question or reason!
 
 ### Main Projects
 
-[![ContrastiveLearning](https://custom-icon-badges.demolab.com/badge/contrastive_learning-B0E0E6?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/SimSiam-Tensorflow)
+[![ContrastiveLearning](https://custom-icon-badges.demolab.com/badge/contrastive_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/SimSiam-Tensorflow)
 [![MotoGP](https://custom-icon-badges.demolab.com/badge/Bayesian_Analysis-B22222?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
 [![Drones](https://custom-icon-badges.demolab.com/badge/Semantic_Segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
 [![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxy_CounTR-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
