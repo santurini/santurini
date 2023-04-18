@@ -7,9 +7,9 @@
 
 <img src="https://user-images.githubusercontent.com/91251307/212358644-24bc2e70-d10b-49cc-98a4-5bb7a2a6d81a.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
 
-Pursuing the MSc in Data Science @ La Sapienza, University of Rome. <br/>
+MSc in Data Science. <br/>
 Strong interest in Computer Vision and AI Research. <br/>
-Some of my favourite topics are Sustainable and Trustworthy AI, Efficient Deep Learning and Generative Models.<br/>
+Main topics: Sustainable and Trustworthy AI, Efficient Deep Learning, Generative Models.
 
 <hr style="border:1px black">
 
@@ -21,8 +21,11 @@ Some of my favourite topics are Sustainable and Trustworthy AI, Efficient Deep L
 [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
-By clicking on the badge (hover on the mail icon for my address) you will be automatically directed at my personal account.<br/>
-Feel free to contact me for any question or reason! 
+Click or hover on the badge.<br/>
+Contact Me.<br/>
+Share your thoughts.<br/>
+Send memes.<br/>
+Just stalk me
 
 <hr style="border:1px black">
 
@@ -36,8 +39,9 @@ Feel free to contact me for any question or reason!
 [![mixervsr](https://img.shields.io/badge/image_super_resolution-96060C?style=for-the-badge&logo=pixabay&logoColor=white)](https://github.com/santurini/mixervsr)
 [![cleanvit](https://img.shields.io/badge/image_restoration-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://github.com/santurini/cleanvit)	
 
-This is a collection of my most recent projects in Computer Vision and Deep Learning.<br/>
-Click on the badge to check the GitHub repository!
+Collection of Computer Vision and Deep Learning projects.<br/>
+Click on the badge.<br/>
+Check the Repo!
 
 <hr style="border:1px black">
 
