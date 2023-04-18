@@ -1,15 +1,15 @@
-![banner](https://user-images.githubusercontent.com/91251307/212051397-3d9ce98c-c2b6-4fe9-8839-96d7f4124234.gif)
-
 <div align="center">
+<a href="https://pjreddie.com/static/Redmon%20Resume.pdf">
+	<img src="https://user-images.githubusercontent.com/91251307/232781280-b3ea770d-0658-4ce6-88c3-06fe3f68b116.png" width="800" height="250"/>
+</a>
 	
-### TL;DR 
+### TL;DR (click on the banner for some culture)
 
 <img src="https://user-images.githubusercontent.com/91251307/212358644-24bc2e70-d10b-49cc-98a4-5bb7a2a6d81a.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
 
 Pursuing the MSc in Data Science @ La Sapienza, University of Rome. <br/>
-Mainly focused on Machine Learning/Neural Networks and Data Science applied to Complex Systems.<br/>
-My favorite fields are Astronomy, Video Games, Music and Motorsport but I'm pretty open to anything interesting enough.<br/>
-Down below you can find more infos about me and my projects, enjoy!
+Strong interest in Computer Vision and AI Research. <br/>
+Some of my favourite topics are Sustainable and Trustworthy AI, Efficient Deep Learning and Generative Models.<br/>
 
 <hr style="border:1px black">
 
@@ -27,44 +27,34 @@ Feel free to contact me for any question or reason!
 <hr style="border:1px black">
 
 ### Main Projects
+	
+[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/semantic-segmentation-pytorch)
+[![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
+[![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
+[![opticalflow](https://img.shields.io/badge/optical_flow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/santurini/raft)
+[![basicvsr](https://img.shields.io/badge/video_super_resolution-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://github.com/santurini/basicvsr)
+[![mixervsr](https://img.shields.io/badge/image_super_resolution-96060C?style=for-the-badge&logo=pixabay&logoColor=white)](https://github.com/santurini/mixervsr)
+[![cleanvit](https://img.shields.io/badge/image_restoration-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://github.com/santurini/cleanvit)	
 
-[![ContrastiveLearning](https://custom-icon-badges.demolab.com/badge/contrastive_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/SimSiam-Tensorflow)
-[![MotoGP](https://custom-icon-badges.demolab.com/badge/Bayesian_Analysis-B22222?style=for-the-badge&logo=motorcycle&logoColor=white)](https://github.com/santurini/Bayesian-Analysis-of-MotoGP-Riders-Skill)
-[![Drones](https://custom-icon-badges.demolab.com/badge/Semantic_Segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/Drone-Images-Semantic-Segmentation)
-[![CounTR](https://custom-icon-badges.demolab.com/badge/Galaxy_CounTR-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/Galaxy-CounTR)
-
-This is a selection of my most recent and interesting projects mainly in the field of Deep Learning, Statistics and Complex Systems.<br/>
+This is a collection of my most recent projects in Computer Vision and Deep Learning.<br/>
 Click on the badge to check the GitHub repository!
 
 <hr style="border:1px black">
 
-### Main Frameworks
+### Framework
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
-![iGraph](https://custom-icon-badges.demolab.com/badge/igraph-D3D3D3?style=for-the-badge&logo=igraph&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
+![Hydra](https://img.shields.io/badge/hydra-319795?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/deepspeed-141526?style=for-the-badge&logo=speedtest&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
-
-My favourite frameworks for building Neural Networks are PyTorch (with Lightning) and Tensorflow.<br/>
-I use Weights and Biases to check the logs and save images or insights, sometimes also Tensorboard.<br/>
-In R i use mainly Keras and iGraph for Complex Systems Modeling and in general the tidyverse for in depth analysis.
-
-<hr style="border:1px black">
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r_&_RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I use R and Python for Data Science.<br/>
-MongoDB and MySQL for Data Management.<br/>
-LaTex and Markdown for writing reports and Git for Project Management.
+Code in PyTorch.<br/>
+Make it fast with Lightning and DeepSpeed.<br/>
+Configure it with Hydra.<br/>
+Log it in Wandb.<br/>
+Manage on Git.
 
 <hr style="border:1px black">
 
@@ -73,26 +63,10 @@ LaTex and Markdown for writing reports and Git for Project Management.
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-I've tried almost every Operative Systems, at the moment I'm working with MacOS.
-
-<hr style="border:1px black">
-
-### IDE and Environments
-
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Colab](https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/kaggle_notebook-20BEFF?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Spyder](https://img.shields.io/badge/spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=black)
-![Jupyter](https://img.shields.io/badge/jupyterlab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-I mainly use Kaggle/Colab to run my training codes for their great resources availability.<br/>
-Anaconda is my virtual enviroments manager when I work locally (rarely).<br/>
-As IDE my favorites are Spyder (easy debugging) and VSCode (great UX/UI but terrible debugging imho).
+Use Linux if you have great patience.<br/>
+Use MacOS if you would like to use Linux but you don't have enough patience.<br/>
+Use Windows only if there is no other option.
 
 <hr style="border:1px black">
 
