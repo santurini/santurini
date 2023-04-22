@@ -73,8 +73,8 @@ Use MacOS if you would like to use Linux but you don't have enough patience.<br/
 Use Windows only if there is no other option.
 
 <hr style="border:1px black">
-
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
-	
+<a href="https://it.crazygames.com/gioco/pacman">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
+</a>	
 </div>
 	
