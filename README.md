@@ -48,17 +48,13 @@ Check the Repo!
 ### Framework
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![Hydra](https://img.shields.io/badge/hydra-319795?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/deepspeed-141526?style=for-the-badge&logo=speedtest&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Code in PyTorch.<br/>
-Make it fast with Lightning and DeepSpeed.<br/>
-Configure it with Hydra.<br/>
-Log it in Wandb.<br/>
-Manage on Git.
+I heavily recommend this setup.<br/>
+Once you try Hydra you never come back.<br/>
+WandB also has cute run names.
 
 <hr style="border:1px black">
 
