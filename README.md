@@ -9,7 +9,7 @@
 
 MSc in Data Science. <br/>
 Strong interest in Computer Vision and AI Research. <br/>
-Main topics: Sustainable and Trustworthy AI, Efficient Deep Learning, Generative Models.
+Currently working on Deep Learning for Embedded Devices and improving my C++.
 
 <hr style="border:1px black">
 
@@ -19,13 +19,9 @@ Main topics: Sustainable and Trustworthy AI, Efficient Deep Learning, Generative
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
 [![Kaggle](https://img.shields.io/badge/kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/santurini)
 [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/contactme-hq/shared_invite/zt-1mzhdt2hh-lEZ1_TJXyqa_5uxNMvilmQ)
-[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897758304598642709)
 
 Click or hover on the badge.<br/>
-Contact Me.<br/>
-Share your thoughts.<br/>
-Send memes.<br/>
-Just stalk me
+If you really need to, contact me.
 
 <hr style="border:1px black">
 
@@ -52,9 +48,8 @@ Check the Repo!
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I heavily recommend this setup.<br/>
-Once you try Hydra you never come back.<br/>
-WandB also has cute run names.
+Wish I could've known Hydra before.<br/>
+Still trying to figure out what a WandB artifact is.
 
 <hr style="border:1px black">
 
@@ -64,11 +59,11 @@ WandB also has cute run names.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Use Linux if you have great patience.<br/>
-Use MacOS if you would like to use Linux but you don't have enough patience.<br/>
-Use Windows only if there is no other option.
+[Some things just never get old!](https://youtu.be/VX5rjTramis).<br/>
+I truly recommend you to open the link.
 
 <hr style="border:1px black">
+
 <a href="https://it.crazygames.com/gioco/pacman">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
 </a>		
