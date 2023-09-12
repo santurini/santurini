@@ -8,8 +8,7 @@
 <img src="https://user-images.githubusercontent.com/91251307/212358644-24bc2e70-d10b-49cc-98a4-5bb7a2a6d81a.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
 
 MSc in Data Science. <br/>
-Strong interest in Computer Vision and AI Research. <br/>
-Currently working on Deep Learning for Embedded Devices and improving my C++.
+Currently studying more about TinyML, Docker, CI/CD and Reinforcement Learning.
 
 <hr style="border:1px black">
 
@@ -27,7 +26,7 @@ If you really need to, contact me.
 
 ### Main Projects
 	
-[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/semantic-segmentation)
+[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone&logoColor=black)](https://github.com/santurini/aerial-view-segmentation)
 [![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
 [![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
 [![opticalflow](https://img.shields.io/badge/optical_flow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/santurini/raft)
@@ -43,13 +42,16 @@ Check the Repo!
 
 ### Framework
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyr-1A162D?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Hydra](https://img.shields.io/badge/hydra-319795?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)
 ![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Wish I could've known Hydra before.<br/>
-Still trying to figure out what a WandB artifact is.
+Yes, I still enjoy R even if I know Python.<br/>
+WandB stays at DL as MLFlow stays at ML.
 
 <hr style="border:1px black">
 
