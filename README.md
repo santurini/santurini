@@ -27,7 +27,7 @@ If you really need to, contact me.
 
 ### Main Projects
 	
-[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/semantic-segmentation-pytorch)
+[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone-color)](https://github.com/santurini/semantic-segmentation)
 [![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
 [![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
 [![opticalflow](https://img.shields.io/badge/optical_flow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/santurini/raft)
