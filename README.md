@@ -26,15 +26,13 @@ If you really need to, contact me.
 
 ### Main Projects
 	
-[![segmentation](https://custom-icon-badges.demolab.com/badge/semantic_segmentation-DDA0DD?style=for-the-badge&logo=drone&logoColor=black)](https://github.com/santurini/aerial-view-segmentation)
+[![lyricsevo](https://custom-icon-badges.demolab.com/badge/lyrics_evolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/santurini/music-sentiment)
 [![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
 [![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
-[![opticalflow](https://img.shields.io/badge/optical_flow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/santurini/raft)
-[![basicvsr](https://img.shields.io/badge/video_super_resolution-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://github.com/santurini/basicvsr)
-[![mixervsr](https://img.shields.io/badge/image_super_resolution-96060C?style=for-the-badge&logo=pixabay&logoColor=white)](https://github.com/santurini/mixervsr)
-[![cleanvit](https://img.shields.io/badge/image_restoration-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://github.com/santurini/cleanvit)	
+[![motogp](https://img.shields.io/badge/rider_scores-CC0000?style=for-the-badge&logo=ducati&logoColor=white)](https://github.com/santurini/motogp-bayesian-analysis)
+[![basicvsr](https://img.shields.io/badge/video_super_resolution-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://github.com/santurini/basicvsr)	
 
-Collection of Computer Vision and Deep Learning projects.<br/>
+Bunch of projects ranging from Computer Vision to Network Analysis.<br/>
 Click on the badge.<br/>
 Check the Repo!
 
