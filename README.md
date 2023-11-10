@@ -4,10 +4,8 @@
 </a>
 	
 ### TL;DR (click on the banner for some culture)
-
-<img src="https://user-images.githubusercontent.com/91251307/212358644-24bc2e70-d10b-49cc-98a4-5bb7a2a6d81a.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359249-b6aa2a6a-521e-4575-baa3-cca62788d412.svg" height="28"/><img src="https://user-images.githubusercontent.com/91251307/212359247-d2ab1f0a-2f6e-48bb-a27d-d872b3dd916c.svg" height="28"/>
-
-MSc in Data Science. <br/>
+![PINLABhorizontal_neg](https://github.com/santurini/santurini/assets/91251307/dd098f8b-1699-483c-a458-690c80e05f26)
+PhD in Artificial Intelligence. <br/>
 Current research interests are Human-in-the-loop, Machine Unlearning and Reinforcement Learning.
 
 <hr style="border:1px black">
@@ -58,7 +56,7 @@ WandB stays at DL as MLFlow stays at ML.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[Some things just never get old!](https://youtu.be/VX5rjTramis).<br/>
+[Some things just never get old!](https://youtu.be/VX5rjTramis)<br/>
 I truly recommend you to open the link.
 
 <hr style="border:1px black">
