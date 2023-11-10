@@ -4,7 +4,11 @@
 </a>
 	
 ### TL;DR (click on the banner for some culture)
-![PINLABhorizontal_neg](https://github.com/santurini/santurini/assets/91251307/dd098f8b-1699-483c-a458-690c80e05f26)
+<div align="center">
+<a href="https://www.pinlab.org">
+	<img src="https://github.com/santurini/santurini/assets/91251307/3ea9640c-1061-4917-9fa4-ac13d732984c" width="500" height="15«0"/>
+</a>
+
 PhD in Artificial Intelligence. <br/>
 Current research interests are Human-in-the-loop, Machine Unlearning and Reinforcement Learning.
 
