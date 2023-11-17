@@ -33,38 +33,12 @@ Check the Repo!
 
 <hr style="border:1px black">
 
-### Framework
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyr-1A162D?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hydra](https://img.shields.io/badge/hydra-319795?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)
-![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-Yes, I still enjoy R even if I know Python.<br/>
-WandB stays at DL as MLFlow stays at ML.
-
-<hr style="border:1px black">
-
-### Operative Systems
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-[Some things just never get old!](https://youtu.be/VX5rjTramis)<br/>
-I truly recommend you to open the link.
-
-<hr style="border:1px black">
-
 <a href="https://it.crazygames.com/gioco/pacman">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
-</a>		
+</a>
 
 	Click on the Pacman for an easter egg 🥚
-
+ 
 </div>
 
 	
