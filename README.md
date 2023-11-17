@@ -1,16 +1,10 @@
 <div align="center">
-<a href="https://pjreddie.com/static/Redmon%20Resume.pdf">
-	<img src="https://user-images.githubusercontent.com/91251307/232781280-b3ea770d-0658-4ce6-88c3-06fe3f68b116.png" width="800" height="250"/>
-</a>
-	
-### TL;DR (click on the banner for some culture)
-<div align="center">
 <a href="https://www.pinlab.org">
 	<img src="https://github.com/santurini/santurini/assets/91251307/3ea9640c-1061-4917-9fa4-ac13d732984c" width="500" height="150"/>
 </a>
 
 PhD in Artificial Intelligence. <br/>
-Current research interests are Human-in-the-loop, Machine Unlearning and Reinforcement Learning.
+Current research interests are Human-in-the-loop, Machine Unlearning and Vision-Language models.
 
 <hr style="border:1px black">
 
