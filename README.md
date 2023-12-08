@@ -4,7 +4,7 @@
 </a>
 
 PhD in Artificial Intelligence. <br/>
-Current research interests are Human-in-the-loop, Machine Unlearning and Vision-Language models.
+Current research interests are Human-in-the-loop, Generative AI and Vision-Language models.
 
 <hr style="border:1px black">
 
