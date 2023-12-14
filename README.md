@@ -20,11 +20,9 @@ If you really need to, contact me.
 <hr style="border:1px black">
 
 ### Main Projects
-	
-[![lyricsevo](https://custom-icon-badges.demolab.com/badge/lyrics_evolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/santurini/music-sentiment)
+[![video-sr](https://custom-icon-badges.demolab.com/badge/video_super_resolution-1DB954?style=for-the-badge&logo=airplayvideo&logoColor=white)](https://github.com/santurini/vsrlab)
 [![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
 [![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
-[![motogp](https://img.shields.io/badge/rider_scores-CC0000?style=for-the-badge&logo=ducati&logoColor=white)](https://github.com/santurini/motogp-bayesian-analysis)
 
 Bunch of projects ranging from Computer Vision to Network Analysis.<br/>
 Click on the badge.<br/>
