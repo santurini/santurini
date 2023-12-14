@@ -24,7 +24,7 @@ If you really need to, contact me.
 [![counting](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)](https://github.com/santurini/galaxy-countr)
 [![simsiam](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)](https://github.com/santurini/simsiam-tf)
 
-Bunch of projects ranging from Computer Vision to Network Analysis.<br/>
+Bunch of Computer Vision projects and libraries.<br/>
 Click on the badge.<br/>
 Check the Repo!
 
