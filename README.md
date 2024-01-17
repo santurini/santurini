@@ -1,10 +1,5 @@
-<div align="center">
-<a href="https://www.pinlab.org">
-	<img src="https://github.com/santurini/santurini/assets/91251307/3ea9640c-1061-4917-9fa4-ac13d732984c" width="500" height="150"/>
-</a>
-
-PhD in Artificial Intelligence. <br/>
-Current research interests are Human-in-the-loop, Generative AI and Vision-Language models.
+Machine Learning and Artificial Intelligence enthusiast. <br/>
+In theory also Data Scientist, not sure what it means by now.
 
 <hr style="border:1px black">
 
