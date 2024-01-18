@@ -41,7 +41,7 @@ Click on the badge 👆🏼 <br/>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="600" height="200">
 </a>
 
-	Click on the Pacman for an easter egg 🥚
+**Click on the Pacman for an easter egg 🥚**
  
 </div>
 
